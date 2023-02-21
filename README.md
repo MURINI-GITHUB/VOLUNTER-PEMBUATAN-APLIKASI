@@ -10,3 +10,4 @@
 ### Daftar Volunter yang Diterima
 
 * Ahmad Wildan : [Website Developer]; [ahmadwildan.my.id]; [https://ahmadwildan.my.id/portfolio/];
+* Azril Nur Rahman : [Android Developer]; [zriel.co.id]; [https://zriel.co.id/];
